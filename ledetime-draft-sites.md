@@ -2,6 +2,8 @@
 
 ## Coming Soon Page
 
+![](lt-1.png)
+
 [LedeTime Coming Soon Link](https://ledetime.com/)
 
 PW: CZlK@\*&ix6TdE2zl
@@ -9,6 +11,8 @@ PW: CZlK@\*&ix6TdE2zl
 **This is already wired to HubSpot and can go up as soon as the Operating Agreement is done and we want to begin lead capture.**
 
 ## Primary Site
+
+![](lt-2.png)
 
 This is a working draft of the primary LedeTime marketing site. To avoid hosting costs (for now), I’ve kept this on a Webflow-owned domain, so you’ll see minor things like the `Made in Webflow` badge. You can assume all of this will be removed when porting to `ledetime.com` in the future.
 
