@@ -28,7 +28,7 @@ Below is a complete list of currently active pages on this site. I’ve left sev
 
 [LedeTime Blog](https://lt-testing-space.webflow.io/blog)
 
-[LedeTime Blog](https://lt-testing-space.webflow.io/case-studies)
+[LedeTime Case Studies](https://lt-testing-space.webflow.io/case-studies)
 
 [LedeTime – About Us](https://lt-testing-space.webflow.io/about)
 
