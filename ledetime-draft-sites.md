@@ -44,4 +44,4 @@ Below is a complete list of currently active pages on this site. I’ve left sev
 
 PW: CZlK@\*&ix6TdE2zl
 
-**This is already wired to HubSpot and can go up as soon as the Operating Agreement is done and we want to begin lead capture.**
+**This is already wired to HubSpot and can go up as soon as the OA is done / we want to begin lead capture.**
