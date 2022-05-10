@@ -1,15 +1,5 @@
 # LedeTime Draft Sites
 
-## Coming Soon Page
-
-![](lt-1.png)
-
-[LedeTime Coming Soon Link](https://ledetime.com/)
-
-PW: CZlK@\*&ix6TdE2zl
-
-**This is already wired to HubSpot and can go up as soon as the Operating Agreement is done and we want to begin lead capture.**
-
 ## Primary Site
 
 ![](lt-2.png)
@@ -45,3 +35,13 @@ Below is a complete list of currently active pages on this site. I’ve left sev
 [LedeTime – Contact Us](https://lt-testing-space.webflow.io/contact)
 
 [LedeTime – Trial Sign Up](https://lt-testing-space.webflow.io/sign-up)
+
+## Coming Soon Page
+
+![](lt-1.png)
+
+[LedeTime Coming Soon Link](https://ledetime.com/)
+
+PW: CZlK@\*&ix6TdE2zl
+
+**This is already wired to HubSpot and can go up as soon as the Operating Agreement is done and we want to begin lead capture.**
