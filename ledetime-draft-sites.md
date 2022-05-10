@@ -26,7 +26,7 @@ Below is a complete list of currently active pages on this site. I’ve left sev
 
 [Features – Pitching and Outreach](https://lt-testing-space.webflow.io/pitching-and-outreach)
 
-[Features – Reporting and Measurement](https://lt-testing-space.webflow.io/reporting-and-measurment)
+[Features – Reporting and Measurement](https://lt-testing-space.webflow.io/reporting-and-measurement)
 
 [Features – Team Collaboration](https://lt-testing-space.webflow.io/team-collaboration)
 
